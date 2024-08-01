@@ -1,0 +1,43 @@
+/* Elements */
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+
+header {
+    background-image: url('./images/Pattern\ 4488x3366.webp');
+}
+
+/* Classes */
+.title-name {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+.item-section {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.brush-section {
+    background-color: mediumspringgreen;
+}
+
+.frames-section {
+    background-color: lightcoral;
+}
+
+.paint-section {
+    background-color: skyblue;
+}
+
+.item-price {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
